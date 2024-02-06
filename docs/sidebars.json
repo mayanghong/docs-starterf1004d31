@@ -1,0 +1,73 @@
+{
+  "mySidebar": [
+    {
+      "type": "category",
+      "label": "Overview",
+      "items": [
+        {
+          "type": "doc",
+          "id": "overview/introduction",
+          "label": "Introduction"
+        },
+        {
+          "type": "doc",
+          "id": "overview/basic-features",
+          "label": "Basic features"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Getting started",
+      "items": [
+        {
+          "type": "doc",
+          "id": "getting-started/quickstart",
+          "label": "Quickstart"
+        },
+        {
+          "type": "doc",
+          "id": "getting-started/set-up-your-first-project",
+          "label": "Set up your first project"
+        },
+        {
+          "type": "doc",
+          "id": "getting-started/configuration",
+          "label": "Configuration"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Editing docs",
+      "items": [
+        {
+          "type": "doc",
+          "id": "editing-docs/manange-your-docs",
+          "label": "Manange your docs"
+        },
+        {
+          "type": "doc",
+          "id": "editing-docs/docs-components",
+          "label": "Docs components"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Customizing",
+      "items": [
+        {
+          "type": "doc",
+          "id": "customizing/customize-with-json-file",
+          "label": "Customize with json file"
+        },
+        {
+          "type": "doc",
+          "id": "customizing/customize-through-platform",
+          "label": "Customize through platform"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "My site",
+  "favicon": "image/favicon.ico",
+  "themeConfig": {
+    "navbar": {
+      "title": "My project",
+      "logo": "image/logo.png",
+      "items": [
+        {
+          "type": "docSidebar",
+          "sidebarIds": ["mySidebar"],
+          "label": "Documentation",
+          "position": "left"
+        }
+      ]
+    },
+    "footer": {
+      "logo": "image/logo.png",
+      "caption": "My project",
+      "links": [
+        {
+          "title": "Product",
+          "items": [
+            {
+              "label": "documentation",
+              "to": "/"
+            }
+          ]
+        }
+      ],
+      "socials": [
+        {
+          "logo": "Twitter",
+          "href": "https://twitter.com/docuo_team"
+        },
+        {
+          "logo": "LinkedIn",
+          "href": "https://www.linkedin.com/company/spreadingai"
+        },
+        {
+          "logo": "Discord",
+          "href": "https://discord.gg/pgJFhUwzAU"
+        },
+        {
+          "logo": "GitHub",
+          "href": "https://github.com/spreadingai"
+        }
+      ]
+    }
+  }
+}
